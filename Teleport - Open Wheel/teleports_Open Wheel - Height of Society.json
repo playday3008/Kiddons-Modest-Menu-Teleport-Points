@@ -1,0 +1,463 @@
+{
+  "CustomLocations": [
+    {
+      "Name": "Open Wheel - Height of Society 1",
+      "Pitch": -0.009651,
+      "Roll": 0.078351,
+      "X": -260.873627,
+      "Y": 260.500122,
+      "Yaw": -1.517748,
+      "Z": 90.039925
+    },
+    {
+      "Name": "Open Wheel - Height of Society 2",
+      "Pitch": 0.001461,
+      "Roll": 0.110266,
+      "X": -94.937027,
+      "Y": 257.129883,
+      "Yaw": -1.639676,
+      "Z": 98.194717
+    },
+    {
+      "Name": "Open Wheel - Height of Society 3",
+      "Pitch": -0.009659,
+      "Roll": 0.001363,
+      "X": 24.496895,
+      "Y": 262.189636,
+      "Yaw": -1.470098,
+      "Z": 108.575714
+    },
+    {
+      "Name": "Open Wheel - Height of Society 4",
+      "Pitch": 0.014029,
+      "Roll": 0.042504,
+      "X": 76.025146,
+      "Y": 357.273743,
+      "Yaw": -0.510489,
+      "Z": 112.603752
+    },
+    {
+      "Name": "Open Wheel - Height of Society 5",
+      "Pitch": 0.007728,
+      "Roll": 0.039948,
+      "X": 129.886856,
+      "Y": 405.695709,
+      "Yaw": -1.101461,
+      "Z": 115.606339
+    },
+    {
+      "Name": "Open Wheel - Height of Society 6",
+      "Pitch": -0.013919,
+      "Roll": 0.128057,
+      "X": 234.272644,
+      "Y": 444.193573,
+      "Yaw": -0.760466,
+      "Z": 119.891174
+    },
+    {
+      "Name": "Open Wheel - Height of Society 7",
+      "Pitch": -0.039079,
+      "Roll": 0.284680,
+      "X": 249.323761,
+      "Y": 508.145752,
+      "Yaw": -0.564644,
+      "Z": 132.611816
+    },
+    {
+      "Name": "Open Wheel - Height of Society 8",
+      "Pitch": -0.016997,
+      "Roll": 0.191625,
+      "X": 270.860443,
+      "Y": 592.790649,
+      "Yaw": -0.106460,
+      "Z": 150.534790
+    },
+    {
+      "Name": "Open Wheel - Height of Society 9",
+      "Pitch": -0.019680,
+      "Roll": 0.236293,
+      "X": 287.076263,
+      "Y": 664.525940,
+      "Yaw": -0.201928,
+      "Z": 162.526245
+    },
+    {
+      "Name": "Open Wheel - Height of Society 10",
+      "Pitch": -0.010914,
+      "Roll": 0.206298,
+      "X": 297.708710,
+      "Y": 734.225830,
+      "Yaw": 0.158872,
+      "Z": 179.792374
+    },
+    {
+      "Name": "Open Wheel - Height of Society 11",
+      "Pitch": -0.007609,
+      "Roll": 0.160308,
+      "X": 283.836548,
+      "Y": 804.950623,
+      "Yaw": 0.216448,
+      "Z": 187.709320
+    },
+    {
+      "Name": "Open Wheel - Height of Society 12",
+      "Pitch": -0.021997,
+      "Roll": 0.118338,
+      "X": 308.426575,
+      "Y": 921.359192,
+      "Yaw": -0.216461,
+      "Z": 203.899872
+    },
+    {
+      "Name": "Open Wheel - Height of Society 13",
+      "Pitch": 0.006777,
+      "Roll": -0.000073,
+      "X": 317.101410,
+      "Y": 997.196594,
+      "Yaw": 0.232628,
+      "Z": 209.521210
+    },
+    {
+      "Name": "Open Wheel - Height of Society 14",
+      "Pitch": -0.006493,
+      "Roll": 0.010476,
+      "X": 271.460236,
+      "Y": 990.385315,
+      "Yaw": 2.053707,
+      "Z": 209.401199
+    },
+    {
+      "Name": "Open Wheel - Height of Society 15",
+      "Pitch": -0.006369,
+      "Roll": -0.017217,
+      "X": 237.533646,
+      "Y": 933.216675,
+      "Yaw": 2.346764,
+      "Z": 209.551285
+    },
+    {
+      "Name": "Open Wheel - Height of Society 16",
+      "Pitch": 0.003490,
+      "Roll": 0.022273,
+      "X": 166.742599,
+      "Y": 920.863220,
+      "Yaw": 1.223451,
+      "Z": 208.136826
+    },
+    {
+      "Name": "Open Wheel - Height of Society 17",
+      "Pitch": -0.000351,
+      "Roll": 0.049336,
+      "X": 124.517517,
+      "Y": 969.362183,
+      "Yaw": 0.680004,
+      "Z": 210.774597
+    },
+    {
+      "Name": "Open Wheel - Height of Society 18",
+      "Pitch": 0.004988,
+      "Roll": 0.064759,
+      "X": 80.390694,
+      "Y": 1018.283325,
+      "Yaw": 0.966042,
+      "Z": 215.127731
+    },
+    {
+      "Name": "Open Wheel - Height of Society 19",
+      "Pitch": -0.006997,
+      "Roll": 0.017816,
+      "X": -8.790901,
+      "Y": 1047.415771,
+      "Yaw": 1.330707,
+      "Z": 218.284714
+    },
+    {
+      "Name": "Open Wheel - Height of Society 20",
+      "Pitch": 0.003561,
+      "Roll": 0.082235,
+      "X": -124.507652,
+      "Y": 1050.128296,
+      "Yaw": 1.546485,
+      "Z": 227.776184
+    },
+    {
+      "Name": "Open Wheel - Height of Society 21",
+      "Pitch": -0.001887,
+      "Roll": 0.063198,
+      "X": -203.582779,
+      "Y": 1049.197510,
+      "Yaw": 1.506936,
+      "Z": 232.928925
+    },
+    {
+      "Name": "Open Wheel - Height of Society 22",
+      "Pitch": 0.019724,
+      "Roll": -0.021190,
+      "X": -270.626709,
+      "Y": 1057.777222,
+      "Yaw": 1.923736,
+      "Z": 234.545853
+    },
+    {
+      "Name": "Open Wheel - Height of Society 23",
+      "Pitch": -0.012978,
+      "Roll": -0.005947,
+      "X": -314.276337,
+      "Y": 994.922058,
+      "Yaw": 2.913013,
+      "Z": 232.377716
+    },
+    {
+      "Name": "Open Wheel - Height of Society 24",
+      "Pitch": -0.005335,
+      "Roll": 0.023296,
+      "X": -374.244110,
+      "Y": 952.044800,
+      "Yaw": 2.199769,
+      "Z": 232.708389
+    },
+    {
+      "Name": "Open Wheel - Height of Society 25",
+      "Pitch": 0.005883,
+      "Roll": 0.043962,
+      "X": -415.725555,
+      "Y": 907.886047,
+      "Yaw": 1.783720,
+      "Z": 235.599945
+    },
+    {
+      "Name": "Open Wheel - Height of Society 26",
+      "Pitch": -0.021739,
+      "Roll": 0.077803,
+      "X": -491.706635,
+      "Y": 898.915222,
+      "Yaw": 1.418147,
+      "Z": 239.926575
+    },
+    {
+      "Name": "Open Wheel - Height of Society 27",
+      "Pitch": -0.002872,
+      "Roll": -0.041915,
+      "X": -592.551147,
+      "Y": 981.169312,
+      "Yaw": 1.040559,
+      "Z": 240.460953
+    },
+    {
+      "Name": "Open Wheel - Height of Society 28",
+      "Pitch": 0.009978,
+      "Roll": 0.001585,
+      "X": -715.920898,
+      "Y": 988.645386,
+      "Yaw": 2.065439,
+      "Z": 236.999573
+    },
+    {
+      "Name": "Open Wheel - Height of Society 29",
+      "Pitch": -0.039914,
+      "Roll": -0.098658,
+      "X": -701.933594,
+      "Y": 950.395020,
+      "Yaw": -2.438575,
+      "Z": 235.351730
+    },
+    {
+      "Name": "Open Wheel - Height of Society 30",
+      "Pitch": -0.056955,
+      "Roll": -0.209975,
+      "X": -631.092468,
+      "Y": 902.292847,
+      "Yaw": -2.261593,
+      "Z": 222.527512
+    },
+    {
+      "Name": "Open Wheel - Height of Society 31",
+      "Pitch": 0.029591,
+      "Roll": -0.253997,
+      "X": -581.234863,
+      "Y": 854.528381,
+      "Yaw": -2.062887,
+      "Z": 204.835495
+    },
+    {
+      "Name": "Open Wheel - Height of Society 32",
+      "Pitch": -0.027673,
+      "Roll": -0.177700,
+      "X": -521.676270,
+      "Y": 837.168152,
+      "Yaw": -1.849084,
+      "Z": 192.672424
+    },
+    {
+      "Name": "Open Wheel - Height of Society 33",
+      "Pitch": 0.085628,
+      "Roll": -0.228746,
+      "X": -483.507416,
+      "Y": 807.600952,
+      "Yaw": -2.315755,
+      "Z": 182.190201
+    },
+    {
+      "Name": "Open Wheel - Height of Society 34",
+      "Pitch": 0.040497,
+      "Roll": -0.245422,
+      "X": -471.157867,
+      "Y": 768.335938,
+      "Yaw": -3.124128,
+      "Z": 170.568176
+    },
+    {
+      "Name": "Open Wheel - Height of Society 35",
+      "Pitch": 0.054221,
+      "Roll": -0.278246,
+      "X": -481.215759,
+      "Y": 735.367493,
+      "Yaw": 2.505728,
+      "Z": 161.347763
+    },
+    {
+      "Name": "Open Wheel - Height of Society 36",
+      "Pitch": -0.036277,
+      "Roll": -0.204953,
+      "X": -519.176941,
+      "Y": 704.518494,
+      "Yaw": 2.365408,
+      "Z": 150.761215
+    },
+    {
+      "Name": "Open Wheel - Height of Society 37",
+      "Pitch": -0.079783,
+      "Roll": -0.225683,
+      "X": -530.697815,
+      "Y": 676.631897,
+      "Yaw": 3.099212,
+      "Z": 143.182175
+    },
+    {
+      "Name": "Open Wheel - Height of Society 38",
+      "Pitch": -0.042720,
+      "Roll": -0.239621,
+      "X": -500.856049,
+      "Y": 600.893921,
+      "Yaw": 3.098219,
+      "Z": 124.104347
+    },
+    {
+      "Name": "Open Wheel - Height of Society 39",
+      "Pitch": 0.013955,
+      "Roll": -0.188218,
+      "X": -506.146881,
+      "Y": 575.817688,
+      "Yaw": 2.609956,
+      "Z": 119.218315
+    },
+    {
+      "Name": "Open Wheel - Height of Society 40",
+      "Pitch": -0.003040,
+      "Roll": -0.156200,
+      "X": -533.684204,
+      "Y": 541.289429,
+      "Yaw": 2.399053,
+      "Z": 110.143288
+    },
+    {
+      "Name": "Open Wheel - Height of Society 41",
+      "Pitch": -0.107209,
+      "Roll": -0.006309,
+      "X": -572.609375,
+      "Y": 513.125122,
+      "Yaw": 1.970108,
+      "Z": 104.976906
+    },
+    {
+      "Name": "Open Wheel - Height of Society 42",
+      "Pitch": -0.019660,
+      "Roll": 0.051324,
+      "X": -626.184265,
+      "Y": 501.204590,
+      "Yaw": 1.737109,
+      "Z": 106.714005
+    },
+    {
+      "Name": "Open Wheel - Height of Society 43",
+      "Pitch": -0.017404,
+      "Roll": -0.053276,
+      "X": -694.437012,
+      "Y": 485.215973,
+      "Yaw": 1.935644,
+      "Z": 108.572495
+    },
+    {
+      "Name": "Open Wheel - Height of Society 44",
+      "Pitch": -0.045851,
+      "Roll": -0.192843,
+      "X": -765.543518,
+      "Y": 449.783508,
+      "Yaw": 2.075758,
+      "Z": 97.823967
+    },
+    {
+      "Name": "Open Wheel - Height of Society 45",
+      "Pitch": -0.030973,
+      "Roll": -0.004087,
+      "X": -850.717041,
+      "Y": 436.658112,
+      "Yaw": 1.955304,
+      "Z": 86.121887
+    },
+    {
+      "Name": "Open Wheel - Height of Society 46",
+      "Pitch": -0.021125,
+      "Roll": -0.031485,
+      "X": -852.575500,
+      "Y": 341.587158,
+      "Yaw": -2.895307,
+      "Z": 85.417946
+    },
+    {
+      "Name": "Open Wheel - Height of Society 47",
+      "Pitch": -0.057067,
+      "Roll": -0.007671,
+      "X": -814.000122,
+      "Y": 289.934998,
+      "Yaw": -1.784097,
+      "Z": 85.153885
+    },
+    {
+      "Name": "Open Wheel - Height of Society 48",
+      "Pitch": 0.023916,
+      "Roll": -0.056607,
+      "X": -680.208313,
+      "Y": 285.340729,
+      "Yaw": -1.662217,
+      "Z": 81.144859
+    },
+    {
+      "Name": "Open Wheel - Height of Society 49",
+      "Pitch": 0.002149,
+      "Roll": -0.001295,
+      "X": -492.256012,
+      "Y": 245.189865,
+      "Yaw": -1.737733,
+      "Z": 82.061096
+    },
+    {
+      "Name": "Open Wheel - Height of Society 50",
+      "Pitch": -0.010272,
+      "Roll": 0.003576,
+      "X": -420.375763,
+      "Y": 237.784073,
+      "Yaw": -1.488410,
+      "Z": 82.393044
+    },
+    {
+      "Name": "Open Wheel - Height of Society Loop/Finish",
+      "Pitch": -0.025745,
+      "Roll": 0.053788,
+      "X": -337.140930,
+      "Y": 248.569183,
+      "Yaw": -1.207343,
+      "Z": 84.945358
+    }
+  ]
+}

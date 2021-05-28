@@ -1,0 +1,319 @@
+{
+  "CustomLocations": [
+    {
+      "Name": "Open Wheel - Morningwood Glory 1",
+      "Pitch": -0.000101,
+      "Roll": 0.000603,
+      "X": -1411.890991,
+      "Y": -564.798035,
+      "Yaw": 2.029891,
+      "Z": 52.213974
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 2",
+      "Pitch": 0.003493,
+      "Roll": 0.000404,
+      "X": -1523.301025,
+      "Y": -649.073730,
+      "Yaw": 2.557389,
+      "Z": 52.290176
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 3",
+      "Pitch": -0.004987,
+      "Roll": 0.000361,
+      "X": -1500.885742,
+      "Y": -707.074097,
+      "Yaw": -2.918630,
+      "Z": 52.287952
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 4",
+      "Pitch": -0.005082,
+      "Roll": 0.001972,
+      "X": -1540.233032,
+      "Y": -739.083984,
+      "Yaw": 1.853752,
+      "Z": 52.285721
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 5",
+      "Pitch": -0.000863,
+      "Roll": 0.000594,
+      "X": -1639.394531,
+      "Y": -745.137756,
+      "Yaw": 1.407531,
+      "Z": 52.289574
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 6",
+      "Pitch": 0.000854,
+      "Roll": -0.007055,
+      "X": -1717.700195,
+      "Y": -666.364319,
+      "Yaw": 0.423954,
+      "Z": 52.170799
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 7",
+      "Pitch": -0.005911,
+      "Roll": 0.000347,
+      "X": -1715.086426,
+      "Y": -564.015564,
+      "Yaw": -0.732318,
+      "Z": 52.149677
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 8",
+      "Pitch": 0.000789,
+      "Roll": 0.000577,
+      "X": -1596.051758,
+      "Y": -528.097717,
+      "Yaw": -1.223957,
+      "Z": 52.152634
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 9",
+      "Pitch": 0.007050,
+      "Roll": 0.103757,
+      "X": -1487.455444,
+      "Y": -461.995575,
+      "Yaw": -1.026495,
+      "Z": 56.369717
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 10",
+      "Pitch": 0.005940,
+      "Roll": 0.003150,
+      "X": -1384.483276,
+      "Y": -390.174408,
+      "Yaw": -0.839260,
+      "Z": 64.739876
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 11",
+      "Pitch": 0.007133,
+      "Roll": 0.000458,
+      "X": -1332.651978,
+      "Y": -310.837494,
+      "Yaw": 0.004248,
+      "Z": 64.822006
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 12",
+      "Pitch": -0.002362,
+      "Roll": 0.000335,
+      "X": -1384.628662,
+      "Y": -212.051208,
+      "Yaw": 0.346888,
+      "Z": 64.823990
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 13",
+      "Pitch": -0.007789,
+      "Roll": 0.000815,
+      "X": -1362.449707,
+      "Y": -131.898560,
+      "Yaw": -0.988446,
+      "Z": 64.822021
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 14",
+      "Pitch": -0.006022,
+      "Roll": 0.000571,
+      "X": -1293.065674,
+      "Y": -113.438995,
+      "Yaw": -1.589096,
+      "Z": 64.822365
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 15",
+      "Pitch": 0.004546,
+      "Roll": 0.000789,
+      "X": -1151.942993,
+      "Y": -125.196625,
+      "Yaw": -1.395313,
+      "Z": 64.846855
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 16",
+      "Pitch": -0.005939,
+      "Roll": 0.000684,
+      "X": -1122.214355,
+      "Y": -54.988758,
+      "Yaw": -0.932821,
+      "Z": 64.854805
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 17",
+      "Pitch": 0.002358,
+      "Roll": 0.000559,
+      "X": -1097.419556,
+      "Y": -96.353828,
+      "Yaw": -2.848275,
+      "Z": 64.859833
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 18",
+      "Pitch": -0.003132,
+      "Roll": 0.002037,
+      "X": -1068.851562,
+      "Y": -176.273926,
+      "Yaw": -2.883977,
+      "Z": 64.867149
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 19",
+      "Pitch": 0.000588,
+      "Roll": -0.090119,
+      "X": -1021.260132,
+      "Y": -304.228729,
+      "Yaw": -2.781819,
+      "Z": 58.602100
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 20",
+      "Pitch": 0.007271,
+      "Roll": 0.001510,
+      "X": -984.387573,
+      "Y": -391.258484,
+      "Yaw": -2.587120,
+      "Z": 52.153637
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 21",
+      "Pitch": -0.007969,
+      "Roll": 0.002312,
+      "X": -942.510803,
+      "Y": -503.661163,
+      "Yaw": 3.115224,
+      "Z": 52.156300
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 22",
+      "Pitch": 0.004908,
+      "Roll": 0.002138,
+      "X": -1005.159302,
+      "Y": -592.894531,
+      "Yaw": 2.829887,
+      "Z": 52.128517
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 23",
+      "Pitch": -0.009324,
+      "Roll": 0.001090,
+      "X": -945.423767,
+      "Y": -639.912476,
+      "Yaw": -2.744588,
+      "Z": 52.114204
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 24",
+      "Pitch": 0.009077,
+      "Roll": 0.000627,
+      "X": -1011.276184,
+      "Y": -645.028259,
+      "Yaw": 1.785195,
+      "Z": 52.108273
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 25",
+      "Pitch": -0.011700,
+      "Roll": 0.000625,
+      "X": -1052.509644,
+      "Y": -699.317078,
+      "Yaw": 1.868915,
+      "Z": 52.119511
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 26",
+      "Pitch": -0.011573,
+      "Roll": 0.000379,
+      "X": -1103.235352,
+      "Y": -675.248047,
+      "Yaw": 0.410464,
+      "Z": 52.122570
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 27",
+      "Pitch": 0.008370,
+      "Roll": 0.003666,
+      "X": -1106.380615,
+      "Y": -618.867859,
+      "Yaw": 1.053732,
+      "Z": 52.108521
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 28",
+      "Pitch": -0.008764,
+      "Roll": 0.000483,
+      "X": -1135.377808,
+      "Y": -657.218750,
+      "Yaw": 2.707362,
+      "Z": 52.112114
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 29",
+      "Pitch": -0.002738,
+      "Roll": 0.000665,
+      "X": -1171.903687,
+      "Y": -674.024536,
+      "Yaw": 1.648651,
+      "Z": 52.111919
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 30",
+      "Pitch": -0.007451,
+      "Roll": 0.000380,
+      "X": -1205.341187,
+      "Y": -642.984497,
+      "Yaw": 0.194321,
+      "Z": 52.111874
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 31",
+      "Pitch": -0.003080,
+      "Roll": 0.000457,
+      "X": -1155.672974,
+      "Y": -536.505615,
+      "Yaw": -0.623622,
+      "Z": 52.105717
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 32",
+      "Pitch": 0.006911,
+      "Roll": 0.000688,
+      "X": -1064.959106,
+      "Y": -475.570892,
+      "Yaw": -0.582958,
+      "Z": 52.228176
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 33",
+      "Pitch": 0.001130,
+      "Roll": 0.000767,
+      "X": -1105.638062,
+      "Y": -410.151550,
+      "Yaw": 1.076106,
+      "Z": 52.209629
+    },
+    {
+      "Name": "Open Wheel - Morningwood Glory 34",
+      "Pitch": -0.000415,        
+      "Roll": 0.001063,          
+      "X": -1212.453857,         
+      "Y": -454.529266,          
+      "Yaw": 2.095782,           
+      "Z": 52.211502             
+    },                           
+    {                            
+      "Name": "Open Wheel - Morningwood Glory Loop/Finish",
+      "Pitch": -0.000040,
+      "Roll": -0.002185,
+      "X": -1308.547241,
+      "Y": -505.622009,
+      "Yaw": 2.057736,
+      "Z": 52.212635
+    }
+  ]
+}

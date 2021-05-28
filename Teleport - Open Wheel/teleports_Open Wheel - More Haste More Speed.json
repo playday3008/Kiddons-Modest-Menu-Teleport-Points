@@ -1,0 +1,256 @@
+{
+  "CustomLocations": [
+    {
+      "Name": "Open Wheel - More Haste More Speed 1",
+      "Pitch": 0.000438,
+      "Roll": 0.000383,
+      "X": -2633.348633,
+      "Y": 3328.034180,
+      "Yaw": 1.121143,
+      "Z": 32.322330
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 2",
+      "Pitch": 0.001999,
+      "Roll": 0.000444,
+      "X": -2694.434082,
+      "Y": 3327.082764,
+      "Yaw": 2.157456,
+      "Z": 32.311024
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 3",
+      "Pitch": 0.001769,
+      "Roll": -0.000469,
+      "X": -2708.759766,
+      "Y": 3267.222656,
+      "Yaw": 2.995220,
+      "Z": 32.462219
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 4",
+      "Pitch": 0.000279,
+      "Roll": 0.000497,
+      "X": -2660.649902,
+      "Y": 3211.305908,
+      "Yaw": -2.149851,
+      "Z": 32.462959
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 5",
+      "Pitch": -0.003490,
+      "Roll": 0.002608,
+      "X": -2577.213135,
+      "Y": 3180.315674,
+      "Yaw": -2.056154,
+      "Z": 32.453602
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 6",
+      "Pitch": 0.002320,
+      "Roll": 0.000735,
+      "X": -2494.489746,
+      "Y": 3100.446533,
+      "Yaw": -2.024215,
+      "Z": 32.272793
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 7",
+      "Pitch": -0.007357,
+      "Roll": 0.000827,
+      "X": -2415.659668,
+      "Y": 3122.573730,
+      "Yaw": -1.833591,
+      "Z": 32.272991
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 8",
+      "Pitch": 0.004075,
+      "Roll": 0.001255,
+      "X": -2392.855957,
+      "Y": 3050.963135,
+      "Yaw": -2.444257,
+      "Z": 32.276554
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 9",
+      "Pitch": -0.003029,
+      "Roll": -0.000977,
+      "X": -2338.918945,
+      "Y": 3055.057617,
+      "Yaw": -1.360423,
+      "Z": 32.284836
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 10",
+      "Pitch": -0.005176,
+      "Roll": -0.000727,
+      "X": -2292.263672,
+      "Y": 3032.843262,
+      "Yaw": -2.550793,
+      "Z": 32.276463
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 11",
+      "Pitch": 0.003026,
+      "Roll": 0.001270,
+      "X": -2282.022217,
+      "Y": 2988.010254,
+      "Yaw": -2.621137,
+      "Z": 32.273483
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 12",
+      "Pitch": -0.001828,
+      "Roll": 0.001005,
+      "X": -2207.485352,
+      "Y": 2977.163574,
+      "Yaw": -1.603958,
+      "Z": 32.257469
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 13",
+      "Pitch": -0.000893,
+      "Roll": 0.000371,
+      "X": -2161.335205,
+      "Y": 2936.833740,
+      "Yaw": -2.482226,
+      "Z": 32.260017
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 14",
+      "Pitch": 0.009508,
+      "Roll": 0.000209,
+      "X": -2093.722168,
+      "Y": 2861.669434,
+      "Yaw": -1.656448,
+      "Z": 32.264210
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 15",
+      "Pitch": -0.009404,
+      "Roll": 0.000219,
+      "X": -2115.245605,
+      "Y": 2936.279541,
+      "Yaw": -0.524140,
+      "Z": 32.262177
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 16",
+      "Pitch": -0.000358,
+      "Roll": 0.000146,
+      "X": -2070.088135,
+      "Y": 2900.912109,
+      "Yaw": -2.478638,
+      "Z": 32.252899
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 17",
+      "Pitch": 0.008614,
+      "Roll": 0.000362,
+      "X": -2001.731323,
+      "Y": 2835.137451,
+      "Yaw": -1.563526,
+      "Z": 32.258968
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 18",
+      "Pitch": -0.000426,
+      "Roll": 0.000390,
+      "X": -1934.492676,
+      "Y": 2908.231689,
+      "Yaw": -0.651977,
+      "Z": 32.250744
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 19",
+      "Pitch": -0.000494,
+      "Roll": 0.001012,
+      "X": -1861.982300,
+      "Y": 3016.656494,
+      "Yaw": -0.485816,
+      "Z": 32.253922
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 20",
+      "Pitch": 0.004522,
+      "Roll": 0.000284,
+      "X": -1886.498901,
+      "Y": 3082.513672,
+      "Yaw": 1.110017,
+      "Z": 32.248650
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 21",
+      "Pitch": -0.001353,
+      "Roll": 0.000217,
+      "X": -1997.168579,
+      "Y": 3119.265137,
+      "Yaw": 1.262298,
+      "Z": 32.248150
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 22",
+      "Pitch": -0.000615,
+      "Roll": -0.000355,
+      "X": -2072.724609,
+      "Y": 3173.692627,
+      "Yaw": 0.714351,
+      "Z": 32.145523
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 23",
+      "Pitch": -0.006154,
+      "Roll": 0.002016,
+      "X": -2140.646973,
+      "Y": 3190.528320,
+      "Yaw": 1.092608,
+      "Z": 32.142178
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 24",
+      "Pitch": 0.008414,
+      "Roll": 0.001887,
+      "X": -2179.791016,
+      "Y": 3230.710449,
+      "Yaw": 1.278753,
+      "Z": 32.148121
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 25",
+      "Pitch": 0.001261,
+      "Roll": 0.001241,
+      "X": -2233.583496,
+      "Y": 3219.157959,
+      "Yaw": 2.323375,
+      "Z": 32.124413
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 26",
+      "Pitch": -0.010843,
+      "Roll": 0.002760,
+      "X": -2288.179688,
+      "Y": 3145.015381,
+      "Yaw": 1.866071,
+      "Z": 32.128666
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed 27",
+      "Pitch": -0.000190,
+      "Roll": 0.000352,
+      "X": -2384.369629,
+      "Y": 3184.941895,
+      "Yaw": 1.124202,
+      "Z": 32.315662
+    },
+    {
+      "Name": "Open Wheel - More Haste More Speed Loop/Finish",
+      "Pitch": -0.000490,
+      "Roll": 0.000188,
+      "X": -2538.562256,
+      "Y": 3272.738525,
+      "Yaw": 1.041533,
+      "Z": 32.314838
+    }
+  ]
+}
