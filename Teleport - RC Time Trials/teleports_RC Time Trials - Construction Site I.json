@@ -1,0 +1,481 @@
+{
+  "CustomLocations": [
+    {
+      "Name": "RC Time Trial - Construction Site 1",
+      "Pitch": -0.006477,
+      "Roll": 0.011460,
+      "X": -477.123322,
+      "Y": -894.090149,
+      "Yaw": -0.413264,
+      "Z": 22.752653
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 2",
+      "Pitch": -0.038693,
+      "Roll": -0.028695,
+      "X": -461.927124,
+      "Y": -890.008301,
+      "Yaw": -1.856213,
+      "Z": 22.680761
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 3",
+      "Pitch": 0.000597,
+      "Roll": -0.052021,
+      "X": -452.976196,
+      "Y": -904.354736,
+      "Yaw": -2.789587,
+      "Z": 22.664152
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 4",
+      "Pitch": -0.025591,
+      "Roll": -0.031211,
+      "X": -477.516968,
+      "Y": -912.211365,
+      "Yaw": 1.650884,
+      "Z": 22.923721
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 5",
+      "Pitch": 0.042941,
+      "Roll": -0.056042,
+      "X": -480.734711,
+      "Y": -927.911926,
+      "Yaw": -3.057589,
+      "Z": 22.964203
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 6",
+      "Pitch": -0.000237,
+      "Roll": -0.040011,
+      "X": -453.927673,
+      "Y": -933.145264,
+      "Yaw": -2.061182,
+      "Z": 22.664547
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 7",
+      "Pitch": 0.050211,
+      "Roll": -0.010081,
+      "X": -474.413696,
+      "Y": -949.421082,
+      "Yaw": 2.017037,
+      "Z": 22.716799
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 8",
+      "Pitch": 0.000464,
+      "Roll": -0.025300,
+      "X": -475.698151,
+      "Y": -964.674011,
+      "Yaw": -3.019225,
+      "Z": 22.550077
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 9",
+      "Pitch": -0.075826,
+      "Roll": -0.051395,
+      "X": -456.417877,
+      "Y": -972.286011,
+      "Yaw": -2.541933,
+      "Z": 22.544817
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 10",
+      "Pitch": -0.008632,
+      "Roll": -0.049149,
+      "X": -459.319122,
+      "Y": -987.047241,
+      "Yaw": 2.945254,
+      "Z": 22.548628
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 11",
+      "Pitch": 0.055811,
+      "Roll": -0.009417,
+      "X": -471.048737,
+      "Y": -993.399597,
+      "Yaw": 2.595317,
+      "Z": 22.549406
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 12",
+      "Pitch": -0.004539,
+      "Roll": -0.188634,
+      "X": -472.564148,
+      "Y": -1020.639587,
+      "Yaw": -2.764141,
+      "Z": 22.567076
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 13",
+      "Pitch": 0.011576,
+      "Roll": -0.010501,
+      "X": -438.173920,
+      "Y": -1054.253906,
+      "Yaw": -2.579164,
+      "Z": 22.982723
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 14",
+      "Pitch": 0.011555,
+      "Roll": -0.026341,
+      "X": -450.245911,
+      "Y": -1072.882080,
+      "Yaw": 2.232244,
+      "Z": 22.605387
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 15",
+      "Pitch": -0.048323,
+      "Roll": -0.055324,
+      "X": -467.426514,
+      "Y": -1072.484253,
+      "Yaw": 1.061008,
+      "Z": 22.549488
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 16",
+      "Pitch": -0.002343,
+      "Roll": 0.006357,
+      "X": -464.891663,
+      "Y": -1060.836914,
+      "Yaw": -0.223076,
+      "Z": 22.552317
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 17",
+      "Pitch": 0.000030,
+      "Roll": -0.052089,
+      "X": -472.999939,
+      "Y": -1049.578613,
+      "Yaw": 0.644240,
+      "Z": 22.552738
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 18",
+      "Pitch": 0.067738,
+      "Roll": 0.083482,
+      "X": -469.112518,
+      "Y": -1030.033081,
+      "Yaw": 0.097596,
+      "Z": 22.551514
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 19",
+      "Pitch": -0.033269,
+      "Roll": -0.009224,
+      "X": -475.683350,
+      "Y": -1017.882446,
+      "Yaw": 0.250675,
+      "Z": 22.735296
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 20",
+      "Pitch": -0.060067,
+      "Roll": -0.042978,
+      "X": -509.335022,
+      "Y": -1010.916504,
+      "Yaw": 1.157810,
+      "Z": 22.551426
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 21",
+      "Pitch": 0.043874,
+      "Roll": -0.045175,
+      "X": -508.917664,
+      "Y": -993.108093,
+      "Yaw": -0.146639,
+      "Z": 22.549683
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 22",
+      "Pitch": -0.010681,
+      "Roll": -0.140284,
+      "X": -507.204376,
+      "Y": -977.738892,
+      "Yaw": -0.124860,
+      "Z": 25.475691
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 23",
+      "Pitch": -0.128163,
+      "Roll": -0.004683,
+      "X": -488.466034,
+      "Y": -981.040283,
+      "Yaw": -3.050647,
+      "Z": 28.129395
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 24",
+      "Pitch": 0.059346,
+      "Roll": -0.006992,
+      "X": -488.325592,
+      "Y": -1030.405029,
+      "Yaw": -2.882852,
+      "Z": 28.127312
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 25",
+      "Pitch": 0.014805,
+      "Roll": 0.008852,
+      "X": -450.982544,
+      "Y": -1064.211060,
+      "Yaw": -2.686818,
+      "Z": 28.564882
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 26",
+      "Pitch": -0.007713,
+      "Roll": 0.013211,
+      "X": -460.862457,
+      "Y": -1075.817261,
+      "Yaw": 2.257059,
+      "Z": 34.292702
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 27",
+      "Pitch": 0.011517,
+      "Roll": 0.006622,
+      "X": -473.377045,
+      "Y": -1066.398926,
+      "Yaw": 0.798029,
+      "Z": 40.029541
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 28",
+      "Pitch": -0.001362,
+      "Roll": 0.118210,
+      "X": -477.914795,
+      "Y": -1040.896851,
+      "Yaw": 0.650431,
+      "Z": 39.816597
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 29",
+      "Pitch": 0.049574,
+      "Roll": -0.049490,
+      "X": -487.707428,
+      "Y": -1014.322083,
+      "Yaw": 0.145376,
+      "Z": 39.810474
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 30",
+      "Pitch": -0.014302,
+      "Roll": -0.121129,
+      "X": -506.516663,
+      "Y": -1009.791931,
+      "Yaw": 1.427513,
+      "Z": 40.276466
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 31",
+      "Pitch": 0.014780,
+      "Roll": 0.029668,
+      "X": -506.588806,
+      "Y": -983.808350,
+      "Yaw": -0.238872,
+      "Z": 45.979218
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 32",
+      "Pitch": -0.010058,
+      "Roll": 0.019793,
+      "X": -491.043365,
+      "Y": -982.488403,
+      "Yaw": -1.851254,
+      "Z": 51.765057
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 33",
+      "Pitch": 0.000591,
+      "Roll": -0.050488,
+      "X": -489.645782,
+      "Y": -1010.433960,
+      "Yaw": 3.075991,
+      "Z": 51.445202
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 34",
+      "Pitch": -0.057512,
+      "Roll": -0.051335,
+      "X": -486.198761,
+      "Y": -1028.874512,
+      "Yaw": -2.870965,
+      "Z": 51.473751
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 35",
+      "Pitch": 0.002771,
+      "Roll": -0.046541,
+      "X": -477.770813,
+      "Y": -1038.852295,
+      "Yaw": -2.351030,
+      "Z": 51.478901
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 36",
+      "Pitch": -0.025232,
+      "Roll": -0.009412,
+      "X": -481.325439,
+      "Y": -1049.154907,
+      "Yaw": 2.008347,
+      "Z": 51.481529
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 37",
+      "Pitch": -0.067067,
+      "Roll": 0.066945,
+      "X": -490.269592,
+      "Y": -1043.979492,
+      "Yaw": 0.503681,
+      "Z": 51.477840
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 38",
+      "Pitch": 0.014262,
+      "Roll": -0.008461,
+      "X": -487.721924,
+      "Y": -1029.119507,
+      "Yaw": -0.034599,
+      "Z": 51.472698
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 39",
+      "Pitch": 0.004405,
+      "Roll": -0.046518,
+      "X": -487.119171,
+      "Y": -995.879700,
+      "Yaw": -0.274393,
+      "Z": 51.479099
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 40",
+      "Pitch": 0.026232,
+      "Roll": -0.281719,
+      "X": -469.677002,
+      "Y": -991.651062,
+      "Yaw": -1.485416,
+      "Z": 47.322929
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 41",
+      "Pitch": 0.025781,
+      "Roll": 0.052853,
+      "X": -465.674286,
+      "Y": -957.120361,
+      "Yaw": -0.212203,
+      "Z": 46.955044
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 42",
+      "Pitch": 0.050593,
+      "Roll": -0.026153,
+      "X": -453.179779,
+      "Y": -938.707214,
+      "Yaw": 0.066625,
+      "Z": 46.983231
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 43",
+      "Pitch": 0.000447,
+      "Roll": 0.032766,
+      "X": -446.062073,
+      "Y": -906.549133,
+      "Yaw": -0.258058,
+      "Z": 46.980518
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 44",
+      "Pitch": 0.127320,
+      "Roll": -0.030862,
+      "X": -444.217407,
+      "Y": -888.532043,
+      "Yaw": 0.608308,
+      "Z": 46.979328
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 45",
+      "Pitch": -0.008528,
+      "Roll": 0.001461,
+      "X": -455.049561,
+      "Y": -889.923706,
+      "Yaw": 1.939524,
+      "Z": 46.987797
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 46",
+      "Pitch": 0.035069,
+      "Roll": -0.074313,
+      "X": -467.037811,
+      "Y": -908.485046,
+      "Yaw": 2.813395,
+      "Z": 46.971317
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 47",
+      "Pitch": 0.000055,
+      "Roll": 0.102820,
+      "X": -467.964081,
+      "Y": -926.316284,
+      "Yaw": -2.222817,
+      "Z": 42.300644
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 48",
+      "Pitch": -0.047211,
+      "Roll": 0.045538,
+      "X": -465.332733,
+      "Y": -905.869263,
+      "Yaw": -0.371623,
+      "Z": 37.677441
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 49",
+      "Pitch": -0.036240,
+      "Roll": -0.054337,
+      "X": -448.970184,
+      "Y": -886.865112,
+      "Yaw": -0.969653,
+      "Z": 37.679802
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 50",
+      "Pitch": -0.033797,
+      "Roll": 0.026670,
+      "X": -443.889679,
+      "Y": -895.916565,
+      "Yaw": -3.131850,
+      "Z": 37.683910
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 51",
+      "Pitch": 0.002252,
+      "Roll": -0.043900,
+      "X": -456.481293,
+      "Y": -916.361328,
+      "Yaw": 2.495176,
+      "Z": 37.682220
+    },
+    {
+      "Name": "RC Time Trial - Construction Site 52",
+      "Pitch": 0.038140,
+      "Roll": -0.043975,
+      "X": -453.415436,
+      "Y": -928.709290,
+      "Yaw": -2.769689,
+      "Z": 37.684319
+    },
+    {
+      "Name": "RC Time Trial - Construction Site Finish",
+      "Pitch": 0.011443,
+      "Roll": 0.035668,
+      "X": -452.834045,
+      "Y": -953.834167,
+      "Yaw": 3.093649,
+      "Z": 37.679806
+    }
+  ]
+}
